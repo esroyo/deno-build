@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "build": "deno run -A build.ts"
+  },
+  "imports": {
+    "esbuild": "npm:esbuild@^0.24.0",
+    "mongoose": "npm:mongoose@^8.7.0",
+    "oak": "https://deno.land/x/oak@v17.0.0/mod.ts"
+  },
+  "nodeModulesDir": true
+}
