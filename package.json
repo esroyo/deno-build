@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^8.7.0",
+    "@oak/oak": "npm:@jsr/oak__oak@^17.0.0"
+  }
+}

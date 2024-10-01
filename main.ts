@@ -1,4 +1,7 @@
-import { Application } from 'oak';
+import mongoose from 'mongoose';
+import { Application } from '@oak/oak';
+
+console.log(mongoose);
 
 const app = new Application();
 
